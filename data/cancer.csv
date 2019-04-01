@@ -1,4 +1,4 @@
-,indicator,Year,Sex,Race/Ethnicity,Value,Place,95pc_con_lvl-low,95pc_con_lvl-high
+,indicator,year,sex,race_ethnicity,value,place,95pc_con_lvl-low,95pc_con_lvl-high
 1468,"All Types of Cancer Mortality Rate (Age-Adjusted; Per 100,000 people)",2010,Both,All,149.9,"San Francisco, CA",145.3,154.6
 1469,"All Types of Cancer Mortality Rate (Age-Adjusted; Per 100,000 people)",2010,Both,All,156.7,"Seattle, WA",146.5,167.6
 1470,"All Types of Cancer Mortality Rate (Age-Adjusted; Per 100,000 people)",2010,Both,All,159.9,"San Antonio, TX",153.5,166.4
